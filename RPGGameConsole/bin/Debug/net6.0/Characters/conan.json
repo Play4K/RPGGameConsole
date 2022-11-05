@@ -1,0 +1,8 @@
+{
+  "Name": "Conan",
+  "Level": 1,
+  "Gold": 2,
+  "HitPoints": 4,
+  "InventoryWeight": 1,
+  "MinLevel": 1
+}

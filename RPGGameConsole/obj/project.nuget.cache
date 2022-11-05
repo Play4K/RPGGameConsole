@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1P8zmdajZo90KomE5+tiFOR/iOLlbbWZRa5rPY67CmD9mLkHvTKnNyaCv6cfxKxGiyUqP7uMGuYuWJExRlMYZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vagoz\\Documents\\Visual Studio 2022\\Projekte\\RPGGameConsole\\RPGGameConsole\\RPGGameConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vagoz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

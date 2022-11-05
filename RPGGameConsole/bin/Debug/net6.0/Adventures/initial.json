@@ -1,0 +1,9 @@
+{
+  "GUID": "0CE5FA23-E3D8-4D81-AF00-C9FD84910ADB",
+  "Title": "RPG Game",
+  "Description": "This an RPG Console Game",
+  "CompletionXPReward": 250,
+  "CompletionGoldReward": 100,
+  "MaxLevel": 1,
+  "MinLevel": 1
+}

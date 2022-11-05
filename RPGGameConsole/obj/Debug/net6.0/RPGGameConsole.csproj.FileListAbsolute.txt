@@ -1,0 +1,17 @@
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\bin\Debug\net6.0\RPGGameConsole.exe
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\bin\Debug\net6.0\RPGGameConsole.deps.json
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\bin\Debug\net6.0\RPGGameConsole.runtimeconfig.json
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\bin\Debug\net6.0\RPGGameConsole.dll
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\bin\Debug\net6.0\RPGGameConsole.pdb
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\obj\Debug\net6.0\RPGGameConsole.csproj.AssemblyReference.cache
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\obj\Debug\net6.0\RPGGameConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\obj\Debug\net6.0\RPGGameConsole.AssemblyInfoInputs.cache
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\obj\Debug\net6.0\RPGGameConsole.AssemblyInfo.cs
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\obj\Debug\net6.0\RPGGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\obj\Debug\net6.0\RPGGameConsole.csproj.CopyComplete
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\obj\Debug\net6.0\RPGGameConsole.dll
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\obj\Debug\net6.0\refint\RPGGameConsole.dll
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\obj\Debug\net6.0\RPGGameConsole.pdb
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\obj\Debug\net6.0\RPGGameConsole.genruntimeconfig.cache
+C:\Users\Vagoz\Documents\Visual Studio 2022\Projekte\RPGGameConsole\RPGGameConsole\obj\Debug\net6.0\ref\RPGGameConsole.dll
